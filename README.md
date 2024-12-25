@@ -20,13 +20,13 @@ The database is designed with the following key entities:
 5. **Storage**: Manages inventory, linking books to their quantities and responsible workers.
 6. **Delivery**: Handles delivery records, associating books, clients, payments, and delivery outcomes.
 
-The schema is normalized and includes primary and foreign keys to maintain data integrity. Each table also includes metadata like `last_changes` and `IP_address` for tracking updates.
+The schema is normalized and includes primary and foreign keys to maintain data integrity. Each table also includes metadata like `last_changes` and `IP_address` for tracking updates (even though I just inserted random values without using specific functions).
 
 ## Technologies Used
 - **Database Management System**: MySQL
 - **Tools**: MySQL Workbench
 
 ## Contributions
-Feel free to fork this repository and propose improvements by submitting a pull request. 
+Fell free to propose improvements by submitting a pull request :). 
 
-For any questions or suggestions, please contact me via [polina.lavrynenko2005@gmail.com]
+For any questions or suggestions, don't hesitate to get in touch with me via [polina.lavrynenko2005@gmail.com]
