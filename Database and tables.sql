@@ -2,7 +2,7 @@ CREATE DATABASE Bookstore;
 USE Bookstore;
 
 CREATE TABLE Workers (
-	worker_id INT NOT NULL PRIMARY KEY,
+	worker_id INT NOT NULL PRIMARY KEY, 
     worker_name VARCHAR(30) NOT NULL,
     worker_surname VARCHAR(30) NOT NULL,
     job VARCHAR(30) NOT NULL,
